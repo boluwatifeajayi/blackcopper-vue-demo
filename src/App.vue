@@ -199,6 +199,7 @@ nav ul li a:hover{
 }
 
 @media(max-width: 800px) {
+
   .boxx{
   background-color: #444;
   color: #fff;
@@ -235,6 +236,9 @@ h3{
   font-size: 80%;
   display: block;
 }
+.money{
+  margin-left: 20px;
+}
 }
 .currentinv {
   display: grid;
@@ -251,11 +255,9 @@ h3{
   display: flex;
   font-size: 150%;
 }
-
 .left-small{
   margin-left: 90px;
 }
-
 @media(max-width: 800px) {
   .currentinv {
   display: block;
